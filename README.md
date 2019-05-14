@@ -1,2 +1,6 @@
-# CustomLIB
-General purpose application custom library using C# language. 
+# Collection of essential custom library using C# language.
+
+
+### List
+* Random password generator
+

@@ -1,0 +1,11 @@
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/bin/Debug/netcoreapp2.2/CustomLIB.deps.json
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/bin/Debug/netcoreapp2.2/CustomLIB.runtimeconfig.json
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/bin/Debug/netcoreapp2.2/CustomLIB.runtimeconfig.dev.json
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/bin/Debug/netcoreapp2.2/CustomLIB.dll
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/bin/Debug/netcoreapp2.2/CustomLIB.pdb
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/obj/Debug/netcoreapp2.2/CustomLIB.csprojAssemblyReference.cache
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/obj/Debug/netcoreapp2.2/CustomLIB.csproj.CoreCompileInputs.cache
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/obj/Debug/netcoreapp2.2/CustomLIB.AssemblyInfoInputs.cache
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/obj/Debug/netcoreapp2.2/CustomLIB.AssemblyInfo.cs
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/obj/Debug/netcoreapp2.2/CustomLIB.dll
+/Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CustomLIB/CustomLIB/obj/Debug/netcoreapp2.2/CustomLIB.pdb
