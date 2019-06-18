@@ -321,7 +321,19 @@ namespace CustomLIB.RandomLIB
         {
             return System.TimeZoneInfo.ConvertTimeBySystemTimeZoneId(DateTime.Now, tzi.Id);
         }
+        public static bool Like(this string value, string search)
+        {
+            return value.Contains(search) || value.StartsWith(search) || value.EndsWith(search);
+        }
 
+        public static string ReverseWords(this string sentence)
+        {
+            var words = sentence.Split(' ');
+            Array.Reverse(words);
+            return string.Join(" ", words);
+        }
+
+        
 
     }
 }
