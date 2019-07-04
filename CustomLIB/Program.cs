@@ -1,5 +1,6 @@
 ﻿using System;
 using CustomLIB.RandomLIB;
+using CustomLIB.RandomLIB.GoogleDrive;
 
 namespace CustomLIB
 {
@@ -7,9 +8,7 @@ namespace CustomLIB
     {
         static void Main(string[] args)
         {
-
-            //var result = GetPassword.CreatePass();
-            //Console.WriteLine(result + "\nLength: " + result.Length);
+            Helper.Run();
             Console.ReadLine();
         }
     }

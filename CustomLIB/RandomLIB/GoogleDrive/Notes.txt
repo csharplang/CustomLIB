@@ -1,0 +1,14 @@
+Tutorials: https://www.daimto.com/google-drive-api-c-upload/
+
+https://developers.google.com/drive/api/v3/quickstart/dotnet
+
+
+
+Install-Package Google.Apis.Drive.v2
+dotnet add package Google.Apis.Drive.v2 --version 1.40.2.1631
+
+dotnet add package Google.Apis.Drive.v3
+
+
+
+
